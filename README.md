@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🥊Absolute Unit Alert❗
-**(Developer/ITI Pyhton Trainee & TeamLeader/Problem-Solver/BodyBuilder)**
-
+# (Developer/ITI Pyhton Trainee & TeamLeader/Problem-Solver/BodyBuilder)
+**🥊Absolute Unit Alert❗**
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/1574956586430.gif" width=100%>
   
 **About me**
@@ -39,7 +38,6 @@ src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the
   
 ### Languages and Tools
 <br />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -54,5 +52,5 @@ src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the
 <img align="left" alt="WebStorm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
