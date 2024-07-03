@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🥊 Abou Gabal
-***(Developer/ITI Pyhton TeamLeader/Problem-Solver)`**
-I'm a full-stack open-source developer. All coding projects are built from the ground
-up, from planning and designing all the way to solving real-life problems with
-code. 
+# 🥊 Absolute Unit Alert ❗
+***(Developer/ITI Pyhton Trainee & TeamLeader/Problem-Solver)`**
+I'm a 24 year-old full-stack open-source developer.
+I'm excited to share that I've secured the coveted ITI internship after four determined attempts! From July 2023 to March 2024, I persevered through multiple rounds of rigorous interviews and I'm thrilled to embark on an exciting journey in the Open-Source Development Track (Full-Stack) using Python, right at the heart of the new administrative capital.
+
+Grateful for this opportunity at the Information Technology Institute (ITI), I'm eager to make an impact and contribute to the world of open-source development. Stay tuned for my projects and updates!
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-abou-gabal-b9a262193/">
 <img alt="LinkedIn Profile" title="Connect with me on LinkedIn"
@@ -38,7 +39,7 @@ src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
