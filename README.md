@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 🥊 Absolute Unit Alert ❗
 ***(Developer/ITI Pyhton Trainee & TeamLeader/Problem-Solver/BodyBuilder)`**
-I'm a 24 year-old full-stack open-source developer. </ br>
+I'm a 24 year-old full-stack open-source developer. 
 I'm excited to share that I've secured the coveted ITI internship after four determined attempts! From July 2023 to March 2024, I persevered through multiple rounds of rigorous interviews and I'm thrilled to embark on an exciting journey in the Open-Source Development Track (Full-Stack) using Python, right at the heart of the new administrative capital.
 
 Grateful for this opportunity at the Information Technology Institute (ITI), I'm eager to make an impact and contribute to the world of open-source development. Stay tuned for my projects and updates!
