@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/1574956586430.gif" width=100%>
   
-***(Developer/ITI Pyhton Trainee & TeamLeader/Problem-Solver/BodyBuilder)`**
-
+**(Developer/ITI Pyhton Trainee & TeamLeader/Problem-Solver/BodyBuilder)**
 
 I'm a 24 year-old full-stack open-source developer. <br />
 I'm excited to share that I've secured the coveted ITI internship after four determined attempts! From July 2023 to March 2024, I persevered through multiple rounds of rigorous interviews and I'm thrilled to embark on an exciting journey in the Open-Source Development Track (Full-Stack) using Python, right at the heart of the new administrative capital.
