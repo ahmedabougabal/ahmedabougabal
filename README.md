@@ -40,7 +40,8 @@ src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the
 
 **"A computer is like an air-conditioning- it becomes useless when you open windows"
 --Linus Torvalds**
-<div class="tenor-gif-embed" data-postid="24807752" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/linux-tux-rotate-gif-24807752">Linux Tux Sticker</a>from <a href="https://tenor.com/search/linux-stickers">Linux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/linux-tux-rotate-gif-24807752" width=100px height=100px>
+
 
   
 ## 🧰Languages and Tools
