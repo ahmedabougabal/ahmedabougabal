@@ -60,16 +60,10 @@ int main() {
 
 >>> [🐔 ,🐣, 🐥, 🥚]
 ```
-<table>
-  <tr>
-    <td>
+<div>
       <img src="https://camo.githubusercontent.com/57fb8b8f8764e93b53aa0a48831a262f11677aa2f1338354cb4e74c9aa189ea3/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="100px" height="100px" alt="GIF">
-    </td>
-    <td>
-      <p>"A computer is like an air-conditioning - it becomes useless when you open windows" --Linus Torvalds</p>
-    </td>
-  </tr>
-</table>
+    <p>"A computer is like an air-conditioning - it becomes useless when you open windows" --Linus Torvalds</p>
+</div>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
 
