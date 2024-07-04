@@ -39,7 +39,7 @@ src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
 
 **Fun Facts**
-// since I am a mad chicken lover here is a fun fact
+// since I am a mad chicken lover here is a fun fact <br />
 Which came first: the chicken 🐤 or the egg 🥚?
 
 ```cpp
