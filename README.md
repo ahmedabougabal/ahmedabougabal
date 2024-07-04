@@ -61,7 +61,7 @@ int main() {
 >>> [🐔 ,🐣, 🐥, 🥚]
 ```
 <div>
-      <img src="https://camo.githubusercontent.com/57fb8b8f8764e93b53aa0a48831a262f11677aa2f1338354cb4e74c9aa189ea3/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="100px" height="100px" alt="GIF">
+      <img src="https://camo.githubusercontent.com/57fb8b8f8764e93b53aa0a48831a262f11677aa2f1338354cb4e74c9aa189ea3/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="250px" height="250px" alt="GIF">
     <p>"A computer is like an air-conditioning - it becomes useless when you open windows" --Linus Torvalds</p>
 </div>
 
