@@ -40,7 +40,7 @@ src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the
 
 **"A computer is like an air-conditioning- it becomes useless when you open windows"
 --Linus Torvalds**
-<img src="https://tenor.com/view/linux-tux-rotate-gif-24807752" width=100px height=100px>
+
 
   
 ## 🧰Languages and Tools
