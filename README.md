@@ -41,21 +41,23 @@ src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the
 **Fun Facts**
 // Which came first: the chicken 🐤 or the egg 🥚?
 
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
 
 int main() {
-  
-    vector<std::string> evolution = {"🥚", "🐣", "🐥", "🐔"};
-    sort(evolution.begin(), evolution.end());
+    std::vector<std::string> evolution = {"🥚", "🐣", "🐥", "🐔"};
+    std::sort(evolution.begin(), evolution.end());
     
     for (const auto& stage : evolution) {
-        cout << stage << " ";
+        std::cout << stage << " ";
     }
     return 0;
 }
->>> 🐔 🐣 🐥 🥚
+
+
+>>> [🐔 ,🐣, 🐥, 🥚]
 
 **"A computer is like an air-conditioning- it becomes useless when you open windows"
 --Linus Torvalds**
