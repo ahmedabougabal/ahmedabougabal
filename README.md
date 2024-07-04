@@ -34,7 +34,7 @@ src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-b
 <img alt="Codewars Profile" title="Check out my Codewars"
 src="https://custom-icon-badges.demolab.com/badge/-Codewars-red?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 <a href="https://leetcode.com/u/kUj6Eu7GZX/">
-<img alt="LeetCode Profile" title="Follow me on LeetCode"
+<img alt="LeetCode Profile" title="Check out my LeetCode"
 src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
   
