@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 I'm a 24 year-old full-stack open-source developer. <br />
 I'm excited to share that I've secured the coveted ITI internship after four determined attempts! From July 2023 to March 2024, I persevered through multiple rounds of rigorous interviews and I'm thrilled to embark on an exciting journey in the Open-Source Development Track (Full-Stack) using Python, right at the heart of the new administrative capital.
 <br />
+<br />
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-abou-gabal-b9a262193/">
 <img alt="LinkedIn Profile" title="Connect with me on LinkedIn"
@@ -67,7 +68,7 @@ int main() {
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
 
-## 🧰Languages and Tools
+## 🧰 Programming SkillSet
 
 <img align="left" alt="Linux" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
