@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 
 **(Developer/ITI Pyhton Trainee & TeamLeader/Problem-Solver/BodyBuilder)**
 <br />
+<br />
+
 ![Codewars](https://www.codewars.com/users/ahmedabougabal/badges/large)
 <br />
+<br />
+
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/1574956586430.gif" width=100%>
   
 **About me**
