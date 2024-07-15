@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Codewars](https://www.codewars.com/users/ahmedabougabal/badges/large)
+<div align="center">
+  <img src="https://www.codewars.com/users/ahmedabougabal/badges/large" alt="Codewars Badge"/>
+</div>
+
+
 <br />
 <br />
 
@@ -32,17 +36,22 @@ I'm a 24 year-old full-stack open-source developer. <br />
 I'm excited to share that I've secured the coveted ITI internship after four determined attempts! From July 2023 to March 2024, I persevered through multiple rounds of rigorous interviews and I'm thrilled to embark on an exciting journey in the Open-Source Development Track (Full-Stack) using Python, right at the heart of the new administrative capital.
 <br />
 <br />
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmed-abou-gabal-b9a262193/">
-<img alt="LinkedIn Profile" title="Connect with me on LinkedIn"
-src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/ahmedabougabal">
-<img alt="Codewars Profile" title="Check out my Codewars"
-src="https://custom-icon-badges.demolab.com/badge/-Codewars-red?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-<a href="https://leetcode.com/u/kUj6Eu7GZX/" target="__blank">
-<img alt="LeetCode Profile" title="Check out my LeetCode"
-src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-abou-gabal-b9a262193/">
+    <img alt="LinkedIn Profile" title="Connect with me on LinkedIn"
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 11.2em; height: 3em;"/>
+  </a>
+  <a href="https://www.codewars.com/users/ahmedabougabal">
+    <img alt="Codewars Profile" title="Check out my Codewars"
+         src="https://custom-icon-badges.demolab.com/badge/-Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" style="width: 11.2em; height: 3em;"/>
+  </a>
+  <a href="https://leetcode.com/u/kUj6Eu7GZX/" target="__blank">
+    <img alt="LeetCode Profile" title="Check out my LeetCode"
+         src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" style="width: 11.2em; height: 3em; "/>
+  </a>
+  <br>
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="100px">
+</div>
 
 **Fun Facts**
 // since I am a mad chicken legs lover, here is a fun fact <br />
