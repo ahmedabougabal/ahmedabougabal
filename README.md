@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 # 🔥 Absolute Unit Alert 🔥
 
-**(Developer/ITI Pyhton Trainee & TeamLeader/Problem-Solver/BodyBuilder)**
+**(ITI Open source Full-Stack Trainee & TeamLeader/Problem-Solver/BodyBuilder)**
 <br />
 <br />
 
 <div align="center">
-  <img src="https://www.codewars.com/users/ahmedabougabal/badges/large" alt="Codewars Badge"/>
+  <img src="https://www.codewars.com/users/Ahmed%20Abou%20Gabal/badges/large" alt="Codewars Badge"/>
 </div>
 
 
