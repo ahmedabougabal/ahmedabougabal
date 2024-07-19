@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
+    <h2>CodeWars Live Stats </h2>
   <img src="https://www.codewars.com/users/Ahmed%20Abou%20Gabal/badges/large" alt="Codewars Badge"/>
 </div>
 
@@ -29,6 +30,12 @@ Here are some ideas to get you started:
 <br />
 
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/1574956586430.gif" width=100%>
+
+<div align="center">
+  <h2>My LeetCode Live Stats </h2>
+  <img src="https://leetcard.jacoblin.cool/kUj6Eu7GZX?border=0&radius=20&ext=heatmap&theme=unicorn" width="550" />
+</div>
+
   
 **About me**
 
