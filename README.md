@@ -48,7 +48,7 @@ I'm excited to share that I've secured the coveted ITI internship after four det
     <img alt="LinkedIn Profile" title="Connect with me on LinkedIn"
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 11.2em; height: 3em;"/>
   </a>
-  <a href="https://www.codewars.com/users/ahmedabougabal">
+  <a href="https://www.codewars.com/users/Ahmed%20Abou%20Gabal">
     <img alt="Codewars Profile" title="Check out my Codewars"
          src="https://custom-icon-badges.demolab.com/badge/-Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" style="width: 11.2em; height: 3em;"/>
   </a>
