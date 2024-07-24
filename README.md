@@ -21,10 +21,21 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-    <h2>CodeWars Live Stats </h2>
+    <h1 align="center">CodeWars Live Stats </h1>
   <img src="https://www.codewars.com/users/Ahmed%20Abou%20Gabal/badges/large" alt="Codewars Badge"/>
 </div>
 
+
+
+# Github Live Stats 🦍 
+<div align="center">
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedabougabal&theme=dark&width=100%background=000000)](https://git.io/streak-stats)
+
+
+
+</div>
 
 <br />
 <br />
