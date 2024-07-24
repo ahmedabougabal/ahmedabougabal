@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedabougabal&theme=dark&width=100%background=000000)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahmedabougabal&theme=swift&hide_border=true&border_radius=6.8&card_width=592&card_height=250&background=45%2C2048EB%2CDD28EB&border=EB021F&stroke=EB5454" alt="GitHub Streak" /></a>
 
 
 </div>
