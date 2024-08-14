@@ -55,8 +55,7 @@ Here are some ideas to get you started:
   
 **About me**
 
-I'm a 24 year-old full-stack open-source developer. <br />
-I'm excited to share that I've secured the coveted ITI internship after four determined attempts! From July 2023 to March 2024, I persevered through multiple rounds of rigorous interviews and I'm thrilled to embark on an exciting journey in the Open-Source Development Track (Full-Stack) using Python, right at the heart of the new administrative capital.
+Redefining limits and supercharged driven, I am a 24-year-old ITI Trainee, a fast-paced learner and problem-solver with a background in Bachelor of Science, Chemistry. My journey took an exhilarating turn as I discovered a deep-inside passion for software/Open-Source Full Stack development.
 <br />
 <br />
 <div align="center">
