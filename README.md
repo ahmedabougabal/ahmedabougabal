@@ -88,6 +88,10 @@ Redefining limits and supercharged driven, I am a 24-year-old ITI Trainee, a fas
          src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" style="width: 11.2em; height: 3em; "/>
   </a>
   <br>
+<br>
+
+
+![Loading GIF](https://github.com/ahmedabougabal/ahmedabougabal/blob/main/status.gif)
 
     
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="100px">
