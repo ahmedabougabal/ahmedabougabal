@@ -127,7 +127,7 @@ int main() {
 
 
 <div>
-    <p>"A computer is like an air-conditioning - it becomes useless when you open windows" --Linus Torvalds</p>
+    <p>"A computer is like an air-conditioning- it becomes useless when you open windows" --Linus Torvalds</p>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
