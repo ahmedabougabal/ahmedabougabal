@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🔥 Absolute Unit Alert 🔥
+# 🔥 Absolute Unit Alert <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/>
 
 **(ITI Open source Full-Stack Trainee & TeamLeader/Problem-Solver/BodyBuilder)**
 <br />
@@ -126,9 +126,9 @@ int main() {
 ```
 
 
-<div>
-    <p>"A computer is like an air-conditioning- it becomes useless when you open windows" --Linus Torvalds</p>
-</div>
+
+> "A computer is like an air-conditioning- it becomes useless when you open Windows" **Linus Torvalds**
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
