@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 >***Redefining limits and supercharged driven, I am a 25-year-old ITI Graduate, a fast-paced learner and problem-solver with a background in Bachelor of Science, Chemistry. My journey took an exhilarating turn as I discovered a deep-inside passion for software/Open-Source Full Stack development.***
 
+[![Stay Motivated](https://img.shields.io/badge/motivation-100%25-brightgreen)](#) [![Squat Approved](https://img.shields.io/badge/SQUAT-depth%20verified-brightgreen)](#) [![Beast Mode](https://img.shields.io/badge/Mode-Beast-red?style=for-the-badge&logo=fire)](#)  [![Lift Heavy](https://img.shields.io/badge/Lift-Heavy-orange?style=for-the-badge&logo=weightlifting)](#)  [![No Pain No Gain](https://img.shields.io/badge/No%20Pain-No%20Gain-black?style=for-the-badge&logo=gym)](#)  
+
+
 <br />
 <br />
 
