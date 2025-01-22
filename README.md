@@ -36,9 +36,7 @@ Here are some ideas to get you started:
   <img src="https://www.codewars.com/users/Ahmed%20Abou%20Gabal/badges/large" alt="Codewars Badge"/>
   <br/><br/><br/> 
 
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ahmedabougabal&icon=3&color=11" alt="Profile Visits" style="width: 20%; height: 5%;">
-  </a>
+<img src="https://komarev.com/ghpvc/?username=ahmedabougabal&color=brightgreen" alt="Profile Views" width="200"/>
 </div>
 
     
