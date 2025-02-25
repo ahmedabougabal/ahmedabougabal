@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🔥 Absolute Unit Alert <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/>
+# 🔥 Absolute Unit Alert <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> <a href="https://ahmedabougabalportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal_Professional_Portfolio-Tap_me_to_view-brightgreen?style=for-the-badge" alt="Tap to view my portfolio"></a>
+
 
 > **(ITI Open source/Full-Stack Graduate & ex.pythonTrackTeamLeader/Problem-Solver/BodyBuilder)**
 
