@@ -93,7 +93,7 @@ Here are some ideas to get you started:
          src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" style="width: 11.2em; height: 3em;"/>
   </a>
   <br>
-  <a href="https://drive.google.com/uc?export=download&id=1tz9WBZLSBwIrNs20Px9p4xnUxoe8unk6" download="Ahmed_Abou_Gabal_CV.pdf">
+  <a href="https://drive.google.com/file/d/1FxYfBYOLx7wuPQLq-jOMrYgTXxF1AeLj/view?usp=sharing" download="Ahmed_Abou_Gabal_CV.pdf">
     <img alt="Download my CV" title="Download my CV"
          src="https://custom-icon-badges.demolab.com/badge/-Download%20my%20CV-green?style=for-the-badge&logo=download&logoColor=white" style="width: 11.2em; height: 3em;"/>
   </a>
