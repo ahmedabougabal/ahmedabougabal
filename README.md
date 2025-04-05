@@ -94,7 +94,7 @@ Here are some ideas to get you started:
   </a>
   <br>
 <a href="https://ahmedabougabalportfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/View_My_Resume_here-Click_to_view-magenta?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=black" alt="My CV is available here" style="width: 500px; height: 50px;">
+  <img src="https://img.shields.io/badge/View_My_Resume_here-Click_to_view-magenta?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=black" alt="My CV is available here" style="width: 500px; height: 43px;">
 </a>
 
 
