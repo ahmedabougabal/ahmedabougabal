@@ -93,10 +93,13 @@ Here are some ideas to get you started:
          src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" style="width: 11.2em; height: 3em;"/>
   </a>
   <br>
-  <a href="https://drive.google.com/file/d/1FxYfBYOLx7wuPQLq-jOMrYgTXxF1AeLj/view?usp=sharing" download="Ahmed_Abou_Gabal_CV.pdf">
-    <img alt="Download my CV" title="Download my CV"
-         src="https://custom-icon-badges.demolab.com/badge/-Download%20my%20CV-green?style=for-the-badge&logo=download&logoColor=white" style="width: 11.2em; height: 3em;"/>
-  </a>
+<a href="https://ahmedabougabalportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/My_CV_is_available_here-Click_to_view-brightgreen?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=black" alt="My CV is available here" style="width: 500px; height: 50px;">
+</a>
+
+
+
+
 </div>
 <br>
 <br>
