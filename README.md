@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
   # My LeetCode Live Stats 🐤
   <div align="center">
-  <img src="https://leetcard.jacoblin.cool/kUj6Eu7GZX?border=0&radius=20&ext=heatmap&theme=unicorn" width="550" />
+  <img src="https://leetcard.jacoblin.cool/kUj6Eu7GZX?border=0&radius=20&ext=heatmap&theme=unicorn" width="550" alt="tap me if i am broken :( " />
   </div>
 
 
