@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 # 🔥 Absolute Unit Alert <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> [![Tap to view my portfolio](https://img.shields.io/badge/Personal_Professional_Portfolio-Tap_me_to_view-brightgreen?style=for-the-badge&logo=react&logoColor=white)](https://ahmedabougabalportfolio.vercel.app/)
 
 
+<p align="center">
+  <a href="https://github.com/abouGabalAlpha" target="_blank">
+    <img src="https://img.shields.io/badge/_Visit_My_Organizational_Account-Click_Here!-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" 
+         alt="Visit abouGabalAlpha Organization" 
+         style="width: 700px; height: 60px; border-radius: 12px;">
+  </a>
+</p>
+
 
 > **(ITI Open source/Full-Stack Graduate & ex.pythonTrackTeamLeader/Problem-Solver/BodyBuilder)**
 
